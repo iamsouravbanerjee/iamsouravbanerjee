@@ -56,7 +56,7 @@
 <br />
 
 [website]: http://souravban.github.io/
-[gmail]: https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=souravbanerjee216@gmail.com/
+[gmail]: https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=souravbanerjee216@gmail.com
 [linkedin]: https://www.linkedin.com/in/iamsouravbanerjee/
 [medium]: https://medium.com/@souravbanerjee216/
 [twitter]: https://twitter.com/iamsouravban/
