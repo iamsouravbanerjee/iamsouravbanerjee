@@ -20,7 +20,7 @@
 
 <img align="left" alt="Jupyter Notebook" width="30px" src="https://github.com/Souravban/Souravban/blob/master/assets/jupyter_notebook.png"/>
 
-<img align="left" alt="Pandas" width="45px" src="https://github.com/Souravban/Souravban/blob/master/assets/pandas.png"/>
+<img align="left" alt="Pandas" width="30px" src="https://github.com/Souravban/Souravban/blob/master/assets/pandas.png"/>
 
 <br />
 <br />
