@@ -24,6 +24,8 @@
 
 <img align="left" alt="NumPy" width="30px" src="https://github.com/Souravban/Souravban/blob/master/assets/numpy.png"/>
 
+<img align="left" alt="SciPy" width="30px" src="https://github.com/Souravban/Souravban/blob/master/assets/scipy.png"/>
+
 <img align="left" alt="Matplotlib" width="30px" src="https://github.com/Souravban/Souravban/blob/master/assets/matplotlib.png"/>
 
 <img align="left" alt="Scikit Learn" width="30px" src="https://github.com/Souravban/Souravban/blob/master/assets/scikit_learn.png"/>
@@ -43,6 +45,12 @@
 <img align="left" alt="Metabase" width="30px" src="https://github.com/Souravban/Souravban/blob/master/assets/metabase.png"/>
 
 <img align="left" alt="Flask" width="30px" src="https://github.com/Souravban/Souravban/blob/master/assets/flask.png"/>
+
+<img align="left" alt="MySQL" width="30px" src="https://github.com/Souravban/Souravban/blob/master/assets/mysql.png"/>
+
+<img align="left" alt="GitHub" width="30px" src="https://github.com/Souravban/Souravban/blob/master/assets/github.png"/>
+
+<img align="left" alt="GitLab" width="30px" src="https://github.com/Souravban/Souravban/blob/master/assets/gitlab.png"/>
 
 <br />
 <br />
