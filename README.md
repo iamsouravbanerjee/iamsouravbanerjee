@@ -22,6 +22,14 @@
 
 <img align="left" alt="Pandas" width="30px" src="https://github.com/Souravban/Souravban/blob/master/assets/pandas.png"/>
 
+<img align="left" alt="NumPy" width="30px" src="https://github.com/Souravban/Souravban/blob/master/assets/numpy.png"/>
+
+<img align="left" alt="Matplotlib" width="30px" src="https://github.com/Souravban/Souravban/blob/master/assets/matplotlib.png"/>
+
+<img align="left" alt="Tensorflow" width="30px" src="https://github.com/Souravban/Souravban/blob/master/assets/tensorflow.png"/>
+
+<img align="left" alt="Keras" width="30px" src="https://github.com/Souravban/Souravban/blob/master/assets/keras.png"/>
+
 <br />
 <br />
 
