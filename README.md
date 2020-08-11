@@ -8,9 +8,10 @@
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr.com" width="30px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="codeSTACKr.com" width="30px" src="https://github.com/Souravban/Souravban/blob/master/assets/website.png" />][website]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="30px" src="https://github.com/Souravban/Souravban/blob/master/assets/linkedin.png" />][linkedin]
+[<img align="left" alt="codeSTACKr | Twitter" width="30px" src="https://github.com/Souravban/Souravban/blob/master/assets/medium.png" />][medium]
+[<img align="left" alt="codeSTACKr | Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.png" />][twitter]
 
 <br />
 
@@ -57,4 +58,5 @@
 
 [website]: http://souravban.github.io/
 [linkedin]: https://www.linkedin.com/in/iamsouravbanerjee/
+[medium]: https://medium.com/@souravbanerjee216/
 [twitter]: https://twitter.com/iamsouravban/
