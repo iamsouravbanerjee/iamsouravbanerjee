@@ -49,8 +49,6 @@
 
 <img align="left" alt="MySQL" width="30px" src="https://github.com/Souravban/Souravban/blob/master/assets/mysql.png"/>
 
-<img align="left" alt="GitHub" width="30px" src="https://github.com/Souravban/Souravban/blob/master/assets/github.png"/>
-
 <img align="left" alt="GitLab" width="30px" src="https://github.com/Souravban/Souravban/blob/master/assets/gitlab.png"/>
 
 <br />
