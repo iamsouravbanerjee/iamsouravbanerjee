@@ -18,7 +18,7 @@
 
 ### Languages and Tools:
 
-<img align="left" alt="Python" width="30px" src="https://github.com/Souravban/Souravban/blob/master/assets/python.png"/>
+[<img align="left" alt="Python" width="30px" src="https://github.com/Souravban/Souravban/blob/master/assets/python.png"/>][https://www.python.org/]
 
 <img align="left" alt="Jupyter Notebook" width="30px" src="https://github.com/Souravban/Souravban/blob/master/assets/jupyter_notebook.png"/>
 
