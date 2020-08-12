@@ -1,6 +1,6 @@
 ### Hi there, I'm Sourav 👋
 
-## I'm a Machine Learning Engineer, Photographer and a Lifelong Learner.
+## I'm a Machine Learning Engineer, a Photographer and a Lifelong Learner.
 - 🔭 I’m currently working on various Machine Learning, Deep Learning, Data Science projects.
 - 🌱 I’m currently learning Machine Learning, Deep Learning, Data Science............... 🤣
 - 🥅 2020 Goals: Getting more and more exposure to hands on learning and read at least 50 Books.
