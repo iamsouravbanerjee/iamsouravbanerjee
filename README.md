@@ -1,4 +1,4 @@
-<img align="center" alt="Cover" width="800px" src="https://github.com/Souravban/Souravban/blob/master/assets/cover.gif"/>
+<img align="center" alt="Cover" width="950px" src="https://github.com/Souravban/Souravban/blob/master/assets/cover.gif"/>
 
 ## Hi there, I'm Sourav 👋
 
