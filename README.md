@@ -1,4 +1,6 @@
-### Hi there, I'm Sourav 👋
+<img align="center" alt="Cover" width="300px" src="https://github.com/Souravban/Souravban/blob/master/assets/cover.gif"/>
+
+## Hi there, I'm Sourav 👋
 
 ## I'm a Machine Learning Engineer, a Photographer and a Lifelong Learner.
 - 🔭 I’m currently working on various Machine Learning, Deep Learning, Data Science projects.
