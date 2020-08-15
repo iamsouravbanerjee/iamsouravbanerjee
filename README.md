@@ -4,7 +4,7 @@
 
 ## I'm a Machine Learning Engineer, a Photographer and a Lifelong Learner.
 - 🔭 I’m currently working on various Machine Learning, Deep Learning, Data Science projects.
-- 🌱 I’m currently learning Machine Learning, Deep Learning, Data Science............... 🤣
+- 🌱 I’m currently learning Machine Learning, Deep Learning, Data Science, learning a new thing everyday 🤣
 - 🥅 2020 Goals: Getting more and more exposure to hands on learning and read at least 50 Books.
 - ⚡ Fun fact: I love to travel and eat different kind of foods.
 
