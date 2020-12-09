@@ -54,6 +54,12 @@
 
 [<img align="left" alt="GitLab" width="30px" src="https://github.com/Souravban/Souravban/blob/master/assets/gitlab.png"/>][gitlab]
 
+[<img align="left" alt="GitLab" width="30px" src="https://github.com/Souravban/Souravban/blob/master/assets/streamlit.png"/>][streamlit]
+
+[<img align="left" alt="GitLab" width="30px" src="https://github.com/Souravban/Souravban/blob/master/assets/binder.png"/>][binder]
+
+[<img align="left" alt="GitLab" width="30px" src="https://github.com/Souravban/Souravban/blob/master/assets/colab.png"/>][colab]
+
 <br />
 <br />
 
@@ -80,3 +86,6 @@
 [flask]: https://flask.palletsprojects.com/en/1.1.x/
 [mysql]: https://www.mysql.com/
 [gitlab]: http://gitlab.com/
+[streamlit]: https://www.streamlit.io/
+[binder]: https://mybinder.org/
+[colab]: https://colab.research.google.com/
