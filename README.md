@@ -54,11 +54,11 @@
 
 [<img align="left" alt="GitLab" width="30px" src="https://github.com/Souravban/Souravban/blob/master/assets/gitlab.png"/>][gitlab]
 
-[<img align="left" alt="GitLab" width="30px" src="https://github.com/Souravban/Souravban/blob/master/assets/streamlit.png"/>][streamlit]
+[<img align="left" alt="GitLab" width="40px" src="https://github.com/Souravban/Souravban/blob/master/assets/streamlit.png"/>][streamlit]
 
-[<img align="left" alt="GitLab" width="30px" src="https://github.com/Souravban/Souravban/blob/master/assets/binder.png"/>][binder]
+[<img align="left" alt="GitLab" width="40px" src="https://github.com/Souravban/Souravban/blob/master/assets/binder.png"/>][binder]
 
-[<img align="left" alt="GitLab" width="30px" src="https://github.com/Souravban/Souravban/blob/master/assets/colab.png"/>][colab]
+[<img align="left" alt="GitLab" width="40px" src="https://github.com/Souravban/Souravban/blob/master/assets/colab.png"/>][colab]
 
 <br />
 <br />
