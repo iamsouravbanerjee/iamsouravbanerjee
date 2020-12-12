@@ -4,14 +4,14 @@
 
 ## I'm a Machine Learning Engineer, a Photographer and a Lifelong Learner.
 - 🔭 I’m currently working on various Machine Learning, Deep Learning, Data Science projects.
-- 🌱 I’m currently learning Machine Learning, Deep Learning, Data Science, learning a new thing everyday 🤣
-- 🥅 2020 Goals: Getting more and more exposure to hands on learning and reading at least 25 Books.
-- ⚡ Fun fact: I love to travel and eat different kind of foods.
+- 🌱 Currently I'm learning something new every singel day 🤣
+- 🥅 2021 Goals: Getting more and more exposure to hands on learning and reading at least 25 Books 📚
+- ⚡ Fun fact: Hodophile, Adventurous Eater.
 
 ### Connect with me:
 
 [<img align="left" alt="codeSTACKr.com" width="35px" src="https://github.com/Souravban/Souravban/blob/master/assets/website.png"/>][website]
-[<img align="left" alt="codeSTACKr.com" width="35px" src="https://github.com/Souravban/Souravban/blob/master/assets/gmail.png"/>][gmail]
+[<img align="left" alt="codeSTACKr.com" width="35px" src="https://github.com/Souravban/Souravban/blob/master/assets/gmail_new.png"/>][gmail]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="35px" src="https://github.com/Souravban/Souravban/blob/master/assets/linkedin.png"/>][linkedin]
 [<img align="left" alt="codeSTACKr | Twitter" width="35px" src="https://github.com/Souravban/Souravban/blob/master/assets/medium.png"/>][medium]
 [<img align="left" alt="codeSTACKr | Twitter" width="35px" src="https://github.com/Souravban/Souravban/blob/master/assets/twitter.png"/>][twitter]
