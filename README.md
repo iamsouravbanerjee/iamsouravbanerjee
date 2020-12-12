@@ -3,8 +3,8 @@
 ## Hi there, I'm Sourav 👋
 
 ## I'm a Machine Learning Engineer, Photographer, Numismatist and Lifelong Learner.
-- 🔭 I’m currently working on various Machine Learning, Deep Learning, Data Science projects.
-- 🌱 Currently I'm learning something new every singel day 🤣
+- 🔭 Currently working on various Machine Learning, Deep Learning, Data Science projects.
+- 🌱 I'm learning something new every singel day 🤣
 - 🥅 2021 Goals: Getting more and more exposure to hands on learning and reading at least 25 Books 📚
 - ⚡ Fun fact: Hodophile, Adventurous Eater.
 
