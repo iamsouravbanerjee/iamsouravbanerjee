@@ -60,9 +60,9 @@
 
 [<img align="left" alt="Colab" width="35px" src="https://github.com/Souravban/Souravban/blob/master/assets/colab.png"/>][colab]
 
-[<img align="left" alt="Gensim" width="35px" src="https://github.com/Souravban/Souravban/blob/master/assets/gensim2.png"/>][gensim]
-
 [<img align="left" alt="Spacy" width="35px" src="https://github.com/Souravban/Souravban/blob/master/assets/spacy.png"/>][spacy]
+
+[<img align="left" alt="Gensim" width="35px" src="https://github.com/Souravban/Souravban/blob/master/assets/gensim2.png"/>][gensim]
 
 <br />
 <br />
@@ -93,5 +93,5 @@
 [streamlit]: https://www.streamlit.io/
 [binder]: https://mybinder.org/
 [colab]: https://colab.research.google.com/
-[gensim]: https://radimrehurek.com/gensim/
 [spacy]: https://spacy.io/
+[gensim]: https://radimrehurek.com/gensim/
