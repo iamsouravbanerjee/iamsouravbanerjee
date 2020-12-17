@@ -60,7 +60,7 @@
 
 [<img align="left" alt="Colab" width="35px" src="https://github.com/Souravban/Souravban/blob/master/assets/colab.png"/>][colab]
 
-[<img align="left" alt="Gensim" width="35px" src="https://github.com/Souravban/Souravban/blob/master/assets/gensim.png"/>][gensim]
+[<img align="left" alt="Gensim" width="35px" src="https://github.com/Souravban/Souravban/blob/master/assets/gensim2.png"/>][gensim]
 
 [<img align="left" alt="Spacy" width="35px" src="https://github.com/Souravban/Souravban/blob/master/assets/spacy.png"/>][spacy]
 
