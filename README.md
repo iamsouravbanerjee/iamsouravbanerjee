@@ -60,6 +60,10 @@
 
 [<img align="left" alt="GitLab" width="35px" src="https://github.com/Souravban/Souravban/blob/master/assets/colab.png"/>][colab]
 
+[<img align="left" alt="GitLab" width="35px" src="https://github.com/Souravban/Souravban/blob/master/assets/gensim.png"/>][gensim]
+
+[<img align="left" alt="GitLab" width="35px" src="https://github.com/Souravban/Souravban/blob/master/assets/spacy.png"/>][spacy]
+
 <br />
 <br />
 
