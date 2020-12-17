@@ -54,15 +54,15 @@
 
 [<img align="left" alt="GitLab" width="35px" src="https://github.com/Souravban/Souravban/blob/master/assets/gitlab.png"/>][gitlab]
 
-[<img align="left" alt="GitLab" width="35px" src="https://github.com/Souravban/Souravban/blob/master/assets/streamlit.png"/>][streamlit]
+[<img align="left" alt="Streamlit" width="35px" src="https://github.com/Souravban/Souravban/blob/master/assets/streamlit.png"/>][streamlit]
 
-[<img align="left" alt="GitLab" width="35px" src="https://github.com/Souravban/Souravban/blob/master/assets/binder.png"/>][binder]
+[<img align="left" alt="Binder" width="35px" src="https://github.com/Souravban/Souravban/blob/master/assets/binder.png"/>][binder]
 
-[<img align="left" alt="GitLab" width="35px" src="https://github.com/Souravban/Souravban/blob/master/assets/colab.png"/>][colab]
+[<img align="left" alt="Colab" width="35px" src="https://github.com/Souravban/Souravban/blob/master/assets/colab.png"/>][colab]
 
-[<img align="left" alt="GitLab" width="35px" src="https://github.com/Souravban/Souravban/blob/master/assets/gensim.png"/>][gensim]
+[<img align="left" alt="Gensim" width="35px" src="https://github.com/Souravban/Souravban/blob/master/assets/gensim.png"/>][gensim]
 
-[<img align="left" alt="GitLab" width="35px" src="https://github.com/Souravban/Souravban/blob/master/assets/spacy.png"/>][spacy]
+[<img align="left" alt="Spacy" width="35px" src="https://github.com/Souravban/Souravban/blob/master/assets/spacy.png"/>][spacy]
 
 <br />
 <br />
@@ -93,3 +93,5 @@
 [streamlit]: https://www.streamlit.io/
 [binder]: https://mybinder.org/
 [colab]: https://colab.research.google.com/
+[gensim]: https://radimrehurek.com/gensim/
+[spacy]: https://spacy.io/
