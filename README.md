@@ -64,6 +64,10 @@
 
 [<img align="left" alt="Gensim" width="35px" src="https://github.com/Souravban/Souravban/blob/master/assets/gensim2.png"/>][gensim]
 
+[<img align="left" alt="Bokeh" width="35px" src="https://github.com/Souravban/Souravban/blob/master/assets/bokeh.png"/>][bokeh]
+
+[<img align="left" alt="Plotly" width="35px" src="https://github.com/Souravban/Souravban/blob/master/assets/plotly.png"/>][plotly]
+
 <br />
 <br />
 
@@ -95,3 +99,5 @@
 [colab]: https://colab.research.google.com/
 [spacy]: https://spacy.io/
 [gensim]: https://radimrehurek.com/gensim/
+[bokeh]: https://bokeh.org/
+[plotly]: https://plotly.com/python/
