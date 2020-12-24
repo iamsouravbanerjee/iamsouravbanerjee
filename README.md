@@ -68,6 +68,8 @@
 
 [<img align="left" alt="Plotly" width="35px" src="https://github.com/Souravban/Souravban/blob/master/assets/plotly.png"/>][plotly]
 
+[<img align="left" alt="CatBoost" width="35px" src="https://github.com/Souravban/Souravban/blob/master/assets/catboost.png"/>][catboost]
+
 <br />
 <br />
 
@@ -101,3 +103,4 @@
 [gensim]: https://radimrehurek.com/gensim/
 [bokeh]: https://bokeh.org/
 [plotly]: https://plotly.com/python/
+[catboost]: https://catboost.ai/
