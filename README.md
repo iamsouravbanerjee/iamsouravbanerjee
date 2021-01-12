@@ -26,7 +26,7 @@
 
 [<img align="left" alt="Pandas" width="35px" src="https://github.com/Souravban/Souravban/blob/master/assets/pandas.png"/>][pandas]
 
-[<img align="left" alt="NumPy" width="35px" src="https://github.com/Souravban/Souravban/blob/master/assets/numpy.png"/>][numpy]
+[<img align="left" alt="NumPy" width="35px" src="https://github.com/Souravban/Souravban/blob/master/assets/numpy1.png"/>][numpy]
 
 [<img align="left" alt="SciPy" width="35px" src="https://github.com/Souravban/Souravban/blob/master/assets/scipy.png"/>][scipy]
 
