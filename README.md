@@ -48,7 +48,7 @@
 
 [<img align="left" alt="Metabase" width="35px" src="https://github.com/Souravban/Souravban/blob/master/assets/metabase.png"/>][metabase]
 
-[<img align="left" alt="Flask" width="35px" src="https://github.com/Souravban/Souravban/blob/master/assets/flask.png"/>][flask]
+[<img align="left" alt="Flask" width="35px" src="https://github.com/Souravban/Souravban/blob/master/assets/flask1.png"/>][flask]
 
 [<img align="left" alt="MySQL" width="35px" src="https://github.com/Souravban/Souravban/blob/master/assets/mysql.png"/>][mysql]
 
