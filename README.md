@@ -76,7 +76,7 @@
 [website]: http://souravban.github.io/
 [gmail]: https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=souravbanerjee216@gmail.com
 [linkedin]: https://www.linkedin.com/in/iamsouravbanerjee/
-[medium]: https://medium.com/@souravbanerjee216/
+[medium]: https://iamsouravbanerjee.medium.com/
 [twitter]: https://twitter.com/iamsouravban/
 
 [python]: https://www.python.org/
