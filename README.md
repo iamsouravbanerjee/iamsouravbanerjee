@@ -13,6 +13,7 @@
 [<img align="left" alt="codeSTACKr.com" width="35px" src="https://github.com/Souravban/Souravban/blob/master/assets/website.png"/>][website]
 [<img align="left" alt="codeSTACKr.com" width="35px" src="https://github.com/Souravban/Souravban/blob/master/assets/gmail.png"/>][gmail]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="35px" src="https://github.com/Souravban/Souravban/blob/master/assets/linkedin.png"/>][linkedin]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="35px" src="https://github.com/Souravban/Souravban/blob/master/assets/kaggle.png"/>][kaggle]
 [<img align="left" alt="codeSTACKr | Twitter" width="35px" src="https://github.com/Souravban/Souravban/blob/master/assets/medium.png"/>][medium]
 [<img align="left" alt="codeSTACKr | Twitter" width="35px" src="https://github.com/Souravban/Souravban/blob/master/assets/twitter.png"/>][twitter]
 
@@ -76,6 +77,7 @@
 [website]: http://souravban.github.io/
 [gmail]: https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=souravbanerjee216@gmail.com
 [linkedin]: https://www.linkedin.com/in/iamsouravbanerjee/
+[kaggle]: https://www.kaggle.com/iamsouravbanerjee/
 [medium]: https://iamsouravbanerjee.medium.com/
 [twitter]: https://twitter.com/iamsouravban/
 
