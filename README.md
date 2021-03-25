@@ -13,9 +13,9 @@
 [<img align="left" alt="codeSTACKr.com" width="35px" src="https://github.com/Souravban/Souravban/blob/master/assets/website.png"/>][website]
 [<img align="left" alt="codeSTACKr.com" width="35px" src="https://github.com/Souravban/Souravban/blob/master/assets/gmail.png"/>][gmail]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="35px" src="https://github.com/Souravban/Souravban/blob/master/assets/linkedin.png"/>][linkedin]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="35px" src="https://github.com/Souravban/Souravban/blob/master/assets/kaggle2.png"/>][kaggle]
 [<img align="left" alt="codeSTACKr | Twitter" width="35px" src="https://github.com/Souravban/Souravban/blob/master/assets/medium.png"/>][medium]
 [<img align="left" alt="codeSTACKr | Twitter" width="35px" src="https://github.com/Souravban/Souravban/blob/master/assets/twitter.png"/>][twitter]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="35px" src="https://github.com/Souravban/Souravban/blob/master/assets/kaggle2.png"/>][kaggle]
 
 <br />
 
