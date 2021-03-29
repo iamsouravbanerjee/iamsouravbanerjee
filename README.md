@@ -15,7 +15,6 @@
 [<img align="left" alt="codeSTACKr | LinkedIn" width="35px" src="https://github.com/Souravban/Souravban/blob/master/assets/linkedin.png"/>][linkedin]
 [<img align="left" alt="codeSTACKr | Twitter" width="35px" src="https://github.com/Souravban/Souravban/blob/master/assets/medium.png"/>][medium]
 [<img align="left" alt="codeSTACKr | Twitter" width="35px" src="https://github.com/Souravban/Souravban/blob/master/assets/twitter.png"/>][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="35px" src="https://github.com/Souravban/Souravban/blob/master/assets/kaggle6.png"/>][kaggle]
 
 <br />
 
