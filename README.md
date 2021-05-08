@@ -2,7 +2,7 @@
 
 ## Hi there, I'm Sourav 👋
 
-## I'm a Machine Learning Engineer, Photographer, Numismatist and Lifelong Learner.
+## I'm a Machine Learning Engineer, a Photographer, a Numismatist and a Lifelong Learner.
 - 🔭 Currently working on various Machine Learning, Deep Learning, Data Science projects.
 - 🌱 I'm learning something new every singel day 🤣
 - 🥅 2021 Goals: Getting more and more exposure to hands on learning and reading at least 25 Books 📚
@@ -73,7 +73,7 @@
 <br />
 <br />
 
-[website]: http://souravban.github.io/
+[website]: https://iamsouravbanerjee.github.io/
 [gmail]: https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=souravbanerjee216@gmail.com
 [linkedin]: https://www.linkedin.com/in/iamsouravbanerjee/
 [kaggle]: https://www.kaggle.com/iamsouravbanerjee/
