@@ -4,7 +4,7 @@
 
 ## I'm a Machine Learning Engineer, a Photographer, a Numismatist and a Lifelong Learner.
 - 🔭 Currently working on various Machine Learning, Deep Learning, Data Science projects.
-- 🌱 I'm learning something new every singel day 🤣
+- 🌱 I'm learning something new every singel day
 - 🥅 2021 Goals: Getting more and more exposure to hands on learning and reading at least 25 Books 📚
 - ⚡ Fun fact: Hodophile, Adventurous Eater.
 
@@ -70,6 +70,8 @@
 
 [<img align="left" alt="CatBoost" width="35px" src="https://github.com/Souravban/Souravban/blob/master/assets/catboost.png"/>][catboost]
 
+[<img align="left" alt="Excel" width="35px" src="https://github.com/Souravban/Souravban/blob/master/assets/excel.png"/>][excel]
+
 <br />
 <br />
 
@@ -105,3 +107,4 @@
 [bokeh]: https://bokeh.org/
 [plotly]: https://plotly.com/python/
 [catboost]: https://catboost.ai/
+[excel]: https://www.microsoft.com/en-in/microsoft-365/excel
