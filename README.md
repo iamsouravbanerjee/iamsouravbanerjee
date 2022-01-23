@@ -5,7 +5,7 @@
 ## I'm a Machine Learning Engineer, a Photographer, a Numismatist and a Lifelong Learner.
 - 🔭 <b> Currently working on various Machine Learning, Deep Learning, Data Science projects. </b>
 - 🌱 <b> I'm learning something new every singel day. </b>
-- 🥅 <b> 2022 Goals: Working on multiple NLP and Computer Vision problems, Build my Kaggle Portfolio and Reading at least 15 Books. </b>📚
+- 🥅 <b> 2022 Goals: Working on NLP and Computer Vision problems, Building my Kaggle Portfolio and Reading at least 15 Books. </b>📚
 - ⚡ <b> Fun fact: Hodophile, Adventurous Eater. </b>
 
 ### Connect with me:
