@@ -8,6 +8,12 @@
 - 🥅 <b> 2022 Goals: Working on NLP and Computer Vision problems, Building my Kaggle Portfolio and Reading at least 15 Books. </b>📚
 - ⚡ <b> Fun fact: Hodophile, Adventurous Eater. </b>
 
+### Kaggle:
+
+![dataset](https://road-to-kaggle-grandmaster.vercel.app/api/badges/{kaggle.com/iamsouravbanerjee}/dataset/light)
+![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/{kaggle.com/iamsouravbanerjee}/notebook/light)
+![discussion](https://road-to-kaggle-grandmaster.vercel.app/api/badges/{kaggle.com/iamsouravbanerjee}/discussion/light)
+
 ### Connect with me:
 
 [<img align="left" alt="codeSTACKr.com" width="35px" src="https://github.com/Souravban/Souravban/blob/master/assets/website.png"/>][website]
