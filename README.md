@@ -10,7 +10,9 @@
 
 ### Kaggle:
 
-![dataset](https://road-to-kaggle-grandmaster.vercel.app/api/badges/iamsouravbanerjee/dataset)
+![dataset](https://road-to-kaggle-grandmaster.vercel.app/api/badges/iamsouravbanerjee/dataset/light)
+![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/iamsouravbanerjee/notebook/light)
+![discussion](https://road-to-kaggle-grandmaster.vercel.app/api/badges/iamsouravbanerjee/discussion/light)
 
 ### Connect with me:
 
