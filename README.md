@@ -13,7 +13,7 @@
 ![dataset](https://road-to-kaggle-grandmaster.vercel.app/api/badges/iamsouravbanerjee/dataset/light)
 ![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/iamsouravbanerjee/notebook/light)
 ![discussion](https://road-to-kaggle-grandmaster.vercel.app/api/badges/iamsouravbanerjee/discussion/light)
-<img src="https://raw.githubusercontent.com/iamsouravbanerjee/iamsouravbanerjee/master/assets/Laptop_Screen_Animation.png" width="380px"/>
+<img src="https://raw.githubusercontent.com/iamsouravbanerjee/iamsouravbanerjee/master/assets/Laptop_Screen_Image.png" width="380px"/>
 
 ### Connect with me:
 
