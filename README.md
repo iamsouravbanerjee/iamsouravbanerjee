@@ -85,10 +85,9 @@
 [website]: https://iamsouravbanerjee.github.io/
 [gmail]: https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=souravbanerjee216@gmail.com
 [linkedin]: https://www.linkedin.com/in/iamsouravbanerjee/
-[kaggle]: https://www.kaggle.com/iamsouravbanerjee/
 [medium]: https://iamsouravbanerjee.medium.com/
 [twitter]: https://twitter.com/iamsouravban/
-[kaggle]: https://www.kaggle.com/iamsouravbanerjee/
+[kaggle]: https://www.kaggle.com/iamsouravbanerjee
 
 [python]: https://www.python.org/
 [jupyter_notebook]: https://jupyter.org/
