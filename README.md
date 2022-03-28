@@ -13,7 +13,10 @@
 ![dataset](https://road-to-kaggle-grandmaster.vercel.app/api/badges/iamsouravbanerjee/dataset/light)
 ![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/iamsouravbanerjee/notebook/light)
 ![discussion](https://road-to-kaggle-grandmaster.vercel.app/api/badges/iamsouravbanerjee/discussion/light)
-<img src="https://raw.githubusercontent.com/iamsouravbanerjee/iamsouravbanerjee/master/assets/Final_Laptop_Animation.gif" onclick = "window.open('https://www.kaggle.com/iamsouravbanerjee')" width="380px"/>
+<img src = "https://raw.githubusercontent.com/iamsouravbanerjee/iamsouravbanerjee/master/assets/Final_Laptop_Animation.gif" onclick = "window.open('https://www.kaggle.com/iamsouravbanerjee');" width="380px"/>
+
+<p>Check out <a href="https://www.freecodecamp.org/">freeCodeCamp</a>.</p>
+
 
 ### Connect with me:
 
