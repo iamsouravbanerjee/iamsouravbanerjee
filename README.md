@@ -13,10 +13,8 @@
 ![dataset](https://road-to-kaggle-grandmaster.vercel.app/api/badges/iamsouravbanerjee/dataset/light)
 ![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/iamsouravbanerjee/notebook/light)
 ![discussion](https://road-to-kaggle-grandmaster.vercel.app/api/badges/iamsouravbanerjee/discussion/light)
-<img src = "https://raw.githubusercontent.com/iamsouravbanerjee/iamsouravbanerjee/master/assets/Final_Laptop_Animation.gif" onclick = "window.open(target = https://www.kaggle.com/iamsouravbanerjee)" width="380px"/>
+<img src = "https://raw.githubusercontent.com/iamsouravbanerjee/iamsouravbanerjee/master/assets/Final_Laptop_Animation.gif" onclick = "window.open('https://www.kaggle.com/iamsouravbanerjee')" width="380px"/>
 
-
-<a href = "https://www.kaggle.com/iamsouravbanerjee" target="https://www.kaggle.com/iamsouravbanerjee"><img src = "https://raw.githubusercontent.com/iamsouravbanerjee/iamsouravbanerjee/master/assets/Final_Laptop_Animation.gif"></a>
 
 ### Connect with me:
 
