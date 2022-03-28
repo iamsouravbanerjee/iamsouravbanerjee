@@ -15,9 +15,6 @@
 ![discussion](https://road-to-kaggle-grandmaster.vercel.app/api/badges/iamsouravbanerjee/discussion/light)
 <img src = "https://raw.githubusercontent.com/iamsouravbanerjee/iamsouravbanerjee/master/assets/Final_Laptop_Animation.gif" onclick = "window.open('https://www.kaggle.com/iamsouravbanerjee')" width="380px"/>
 
-
-<onclick = "window.open('https://www.kaggle.com/iamsouravbanerjee)" img src = "https://raw.githubusercontent.com/iamsouravbanerjee/iamsouravbanerjee/master/assets/Final_Laptop_Animation.gif"/>
-
 ### Connect with me:
 
 [<img align="left" alt="codeSTACKr.com" width="35px" src="https://github.com/Souravban/Souravban/blob/master/assets/website.png"/>][website]
