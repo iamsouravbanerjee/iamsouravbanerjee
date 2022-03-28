@@ -16,7 +16,7 @@
 <img src = "https://raw.githubusercontent.com/iamsouravbanerjee/iamsouravbanerjee/master/assets/Final_Laptop_Animation.gif" onclick = "window.open('https://www.kaggle.com/iamsouravbanerjee')" width="380px"/>
 
 
-<img src onclick = "window.open('https://www.kaggle.com/iamsouravbanerjee)" img src = "https://raw.githubusercontent.com/iamsouravbanerjee/iamsouravbanerjee/master/assets/Final_Laptop_Animation.gif"/>
+<onclick = "window.open('https://www.kaggle.com/iamsouravbanerjee)" img src = "https://raw.githubusercontent.com/iamsouravbanerjee/iamsouravbanerjee/master/assets/Final_Laptop_Animation.gif"/>
 
 ### Connect with me:
 
