@@ -16,6 +16,8 @@
 <img src = "https://raw.githubusercontent.com/iamsouravbanerjee/iamsouravbanerjee/master/assets/Final_Laptop_Animation.gif" onclick = "window.open('https://www.kaggle.com/iamsouravbanerjee')" width="380px"/>
 
 
+<img onclick = "window.open('https://www.kaggle.com/iamsouravbanerjee)" type = "img"> img src = "https://raw.githubusercontent.com/iamsouravbanerjee/iamsouravbanerjee/master/assets/Final_Laptop_Animation.gif"/>
+<button onclick="window.open('https://iamsouravbanerjee.medium.com/convolutional-neural-network-for-dummies-8b17066a830a')" type="button">Click Here to Read More</button>
 ### Connect with me:
 
 [<img align="left" alt="codeSTACKr.com" width="35px" src="https://github.com/Souravban/Souravban/blob/master/assets/website.png"/>][website]
