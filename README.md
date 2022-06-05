@@ -1,6 +1,6 @@
 <img align="center" alt="Cover" width="950px" src="https://github.com/Souravban/Souravban/blob/master/assets/cover.gif"/>
 
-## Hi there, I'm Sourav <img src="https://raw.githubusercontent.com/iamsouravbanerjee/iamsouravbanerjee/master/assets/Hello.gif" width="20px"/>
+## Hi there, I'm Sourav <img src="https://raw.githubusercontent.com/iamsouravbanerjee/iamsouravbanerjee/master/assets/Hello.gif" width="25"/>
 
 ## I'm a Machine Learning Engineer, a Photographer, a Numismatist and a Lifelong Learner.
 - 🔭 <b> Currently working on various Machine Learning, Deep Learning, Data Science projects. </b>
@@ -13,7 +13,7 @@
 ![dataset](https://road-to-kaggle-grandmaster.vercel.app/api/badges/iamsouravbanerjee/dataset/light)
 ![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/iamsouravbanerjee/notebook/light)
 ![discussion](https://road-to-kaggle-grandmaster.vercel.app/api/badges/iamsouravbanerjee/discussion/light)
-[<img src = "https://raw.githubusercontent.com/iamsouravbanerjee/iamsouravbanerjee/master/assets/Final_Laptop_Animation.gif" width="380px"/>][kaggle]
+[<img src = "https://raw.githubusercontent.com/iamsouravbanerjee/iamsouravbanerjee/master/assets/Final_Laptop_Animation.gif" width="380"/>][kaggle]
 
 
 ### Connect with me:
