@@ -13,7 +13,7 @@
 ![dataset](https://road-to-kaggle-grandmaster.vercel.app/api/badges/iamsouravbanerjee/dataset/light)
 ![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/iamsouravbanerjee/notebook/light)
 ![discussion](https://road-to-kaggle-grandmaster.vercel.app/api/badges/iamsouravbanerjee/discussion/light)
-[<img src = "https://raw.githubusercontent.com/iamsouravbanerjee/iamsouravbanerjee/master/assets/Final_Laptop_Animation.gif" width="380"/>][kaggle]
+[<img src = "https://raw.githubusercontent.com/iamsouravbanerjee/iamsouravbanerjee/master/assets/Final_Laptop_Animation.gif" width="380"/>][kaggle](https://www.kaggle.com/iamsouravbanerjee)
 
 
 ### Connect with me:
@@ -88,7 +88,7 @@
 [linkedin]: https://www.linkedin.com/in/iamsouravbanerjee/
 [medium]: https://iamsouravbanerjee.medium.com/
 [twitter]: https://twitter.com/iamsouravban/
-[kaggle]: https://www.kaggle.com/iamsouravbanerjee
+[kaggle]: [https://www.kaggle.com/iamsouravbanerjee/](https://www.kaggle.com/iamsouravbanerjee)
 
 [python]: https://www.python.org/
 [jupyter_notebook]: https://jupyter.org/
