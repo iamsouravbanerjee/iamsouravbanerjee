@@ -2,7 +2,7 @@
 
 ## Hi there, I'm Sourav <img src="https://raw.githubusercontent.com/iamsouravbanerjee/iamsouravbanerjee/master/assets/Hello.gif" width="25"/>
 
-## I'm a Data Science Engineer, a Photographer, a Numismatist and a Lifelong Learner.
+## I'm an Associate Data Scientist, a Photographer, a Numismatist and a Lifelong Learner.
 - 🔭 <b> Currently working on various Machine Learning, Deep Learning, Data Science projects. </b>
 - 🌱 <b> I'm learning something new every singel day. </b>
 - 🥅 <b> 2022 Goals: Working on NLP and Computer Vision problems, Building my Kaggle Portfolio and Reading at least 15 Books. </b>📚
