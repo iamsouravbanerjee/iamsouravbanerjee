@@ -1,4 +1,4 @@
-<img align="center" alt="Cover" width="850px" src="https://github.com/Souravban/Souravban/blob/master/assets/cover.gif"/>
+<img align="center" alt="Cover" width="850px" src="https://drive.google.com/file/d/1LwPgcQZMYbLDx8CNKNn8zTpVlgPShYw0/view?usp=sharing"/>
 
 ## Hi there, I'm Sourav <img src="https://raw.githubusercontent.com/iamsouravbanerjee/iamsouravbanerjee/master/assets/Hello.gif" width="25"/>
 
