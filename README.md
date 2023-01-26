@@ -1,5 +1,7 @@
 <img align="center" alt="Cover" width="850px" src="https://drive.google.com/file/d/1LwPgcQZMYbLDx8CNKNn8zTpVlgPShYw0"/>
 
+![](https://github.com/iamsouravbanerjee/iamsouravbanerjee/blob/master/assets/cover.gif)
+
 ## Hi there, I'm Sourav <img src="https://raw.githubusercontent.com/iamsouravbanerjee/iamsouravbanerjee/master/assets/Hello.gif" width="25"/>
 
 ## I'm an Associate Data Scientist, a Photographer, a Numismatist and a Lifelong Learner.
