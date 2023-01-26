@@ -1,4 +1,4 @@
-<img align="center" alt="Cover" width="850px" src="https://drive.google.com/file/d/1LwPgcQZMYbLDx8CNKNn8zTpVlgPShYw0"/>
+<img align="center" alt="Cover" width="850px" src="https://drive.google.com/file/d/1LwPgcQZMYbLDx8CNKNn8zTpVlgPShYw0/view?usp=sharing/cover.gif"/>
 
 ![](https://github.com/iamsouravbanerjee/iamsouravbanerjee/blob/master/assets/cover.gif)
 
