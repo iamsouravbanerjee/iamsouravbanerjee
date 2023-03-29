@@ -3,10 +3,11 @@
 ## Hi there, I'm Sourav <img src="https://raw.githubusercontent.com/iamsouravbanerjee/iamsouravbanerjee/master/assets/Hello.gif" width="25"/>
 
 ## I'm an Associate Data Scientist, a Photographer, a Numismatist and a Lifelong Learner.
-- 🔭 <b> Currently working on various Machine Learning, Deep Learning, Data Science projects. </b>
+- 🔭 <b> As of now, I am actively engaged in multiple projects centered around Machine Learning, Deep Learning, and Data Science. </b>
+- 🌱 <b> Each day presents an opportunity for me to learn something new and grow my skill set. </b>
 - 🌱 <b> I'm learning something new every singel day. </b>
-- 🥅 <b> 2023 Goals: Working on NLP and Computer Vision problems, Building my Kaggle Portfolio and Reading at least 20 Books. </b>📚
-- ⚡ <b> Fun fact: Hodophile, Adventurous Eater. </b>
+- 🥅 <b> In 2023, I aim to focus on challenges related to Natural Language Processing (NLP) and Computer Vision, bolster my Kaggle Portfolio, and read at least 20 books. </b>📚
+- ⚡ <b> I am a Hodophile with a passion for exploring new food experiences. </b>
 
 ### Kaggle:
 
