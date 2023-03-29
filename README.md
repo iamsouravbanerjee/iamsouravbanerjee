@@ -10,6 +10,7 @@
 
 ### Kaggle:
 
+[<img src = "https://raw.githubusercontent.com/iamsouravbanerjee/iamsouravbanerjee/master/assets/Datasets%20Grandmaster%20Badge.png" width="180"/>][kaggle]
 ![dataset](https://road-to-kaggle-grandmaster.vercel.app/api/badges/iamsouravbanerjee/dataset/light)
 ![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/iamsouravbanerjee/notebook/light)
 ![discussion](https://road-to-kaggle-grandmaster.vercel.app/api/badges/iamsouravbanerjee/discussion/light)
