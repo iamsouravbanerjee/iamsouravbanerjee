@@ -1,8 +1,8 @@
 <img align="center" alt="Cover" width="850px" src="https://github.com/iamsouravbanerjee/iamsouravbanerjee/blob/master/assets/cover.gif"/>
 
-## Hi there, I'm Sourav <img src="https://raw.githubusercontent.com/iamsouravbanerjee/iamsouravbanerjee/master/assets/Hello.gif" width="25"/>
+## Hi there, I'm Sourav (সৌরভ) <img src="https://raw.githubusercontent.com/iamsouravbanerjee/iamsouravbanerjee/master/assets/Hello.gif" width="25"/>
 
-## I'm an Associate Data Scientist, a Photographer, a Numismatist and a Lifelong Learner.
+## I'm a Data Scientist, a Photographer, a Numismatist and a Lifelong Learner.
 - 🔭 <b> As of now, I am actively engaged in multiple projects centered around Machine Learning, Deep Learning, and Data Science. </b>
 - 🌱 <b> Each day presents an opportunity for me to learn something new and grow my skill set. </b>
 - 🥅 <b> In 2023, I aim to focus on challenges related to Natural Language Processing (NLP) and Computer Vision </b>📚
