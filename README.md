@@ -10,7 +10,6 @@
 
 ### Kaggle:
 
-[<img src = "https://raw.githubusercontent.com/iamsouravbanerjee/iamsouravbanerjee/master/assets/Datasets%20Grandmaster%20Badge.png" width="80"/>][kaggle]
 [<img src = "https://raw.githubusercontent.com/iamsouravbanerjee/iamsouravbanerjee/master/assets/Final_Laptop_Animation.gif" width="380"/>][kaggle]
 
 ### Connect with me:
