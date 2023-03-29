@@ -6,7 +6,7 @@
 - 🔭 <b> As of now, I am actively engaged in multiple projects centered around Machine Learning, Deep Learning, and Data Science. </b>
 - 🌱 <b> Each day presents an opportunity for me to learn something new and grow my skill set. </b>
 - 🌱 <b> I'm learning something new every singel day. </b>
-- 🥅 <b> In 2023, I aim to focus on challenges related to Natural Language Processing (NLP) and Computer Vision, bolster my Kaggle Portfolio, and read at least 20 books. </b>📚
+- 🥅 <b> In 2023, I aim to focus on challenges related to Natural Language Processing (NLP) and Computer Vision </b>📚
 - ⚡ <b> I am a Hodophile with a passion for exploring new food experiences. </b>
 
 ### Kaggle:
