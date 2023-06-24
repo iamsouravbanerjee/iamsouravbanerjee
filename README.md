@@ -50,6 +50,7 @@
 [<img align="left" alt="Plotly" width="35px" src="https://github.com/Souravban/Souravban/blob/master/assets/plotly.png"/>][plotly]
 [<img align="left" alt="CatBoost" width="35px" src="https://github.com/Souravban/Souravban/blob/master/assets/catboost.png"/>][catboost]
 [<img align="left" alt="Excel" width="35px" src="https://github.com/Souravban/Souravban/blob/master/assets/excel.png"/>][excel]
+[<img align="left" alt="PostgreSQL" width="35px" src="https://github.com/iamsouravbanerjee/iamsouravbanerjee/blob/master/assets/postgresql.png"/>][postgresql]
 
 <br />
 <br />
@@ -87,3 +88,4 @@
 [plotly]: https://plotly.com/python/
 [catboost]: https://catboost.ai/
 [excel]: https://www.microsoft.com/en-in/microsoft-365/excel
+[postgresql]: https://www.postgresql.org/
