@@ -2,11 +2,11 @@
 
 ## Hi there, I'm Sourav (সৌরভ) <img src="https://raw.githubusercontent.com/iamsouravbanerjee/iamsouravbanerjee/master/assets/Hello.gif" width="25"/>
 
-## I'm a Data Scientist, a Photographer, a Numismatist and a Lifelong Learner.
-- 🔭 <b> As of now, I am actively engaged in multiple projects centered around Machine Learning, Deep Learning, and Data Science. </b>
-- 🌱 <b> Each day presents an opportunity for me to learn something new and grow my skill set. </b>
-- 🥅 <b> In 2023, I aim to focus on challenges related to Natural Language Processing and Computer Vision </b>📚
-- ⚡ <b> I am a Hodophile with a passion for exploring new food experiences. </b>
+## I'm a Data Scientist, a Photographer, a Numismatist, and a Lifelong Learner.
+- 🔭 <b> 🔭 Currently, I'm deeply immersed in several projects that revolve around Machine Learning, Deep Learning, and Data Science 🚀. </b>
+- 🌱 <b> 🌱 Every day brings a chance for me to acquire fresh knowledge and enhance my skill set 📊. </b>
+- 🥅 <b> 🎯 My 2023 aspirations are geared towards addressing challenges within Natural Language Processing and Computer Vision 📚. </b>
+- ⚡ <b> ⚡ I'm a Hodophile at heart, driven by a passion for discovering novel culinary delights 🍜. </b>
 
 ### Kaggle:
 
