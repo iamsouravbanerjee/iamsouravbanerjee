@@ -12,6 +12,12 @@
 
 [<img src = "https://raw.githubusercontent.com/iamsouravbanerjee/iamsouravbanerjee/master/assets/Final_Laptop_Animation.gif" width="380"/>][kaggle]
 
+<p align="center">
+  <a href="https://kaggle.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/iamsouravbanerjee/iamsouravbanerjee/master/assets/Final_Laptop_Animation.gif" alt="Laptop Animation" width="500"/>
+  </a>
+</p>
+
 ### Connect with me:
 
 [<img align="left" alt="codeSTACKr.com" width="35px" src="https://github.com/Souravban/Souravban/blob/master/assets/website.png"/>][website]
