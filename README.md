@@ -56,7 +56,7 @@
 [<img align="left" alt="Excel" width="35px" src="https://github.com/Souravban/Souravban/blob/master/assets/excel.png"/>][excel]
 [<img align="left" alt="Streamlit" width="35px" src="https://github.com/Souravban/Souravban/blob/master/assets/streamlit.png"/>][streamlit]
 [<img align="left" alt="Git" width="35px" src="https://github.com/iamsouravbanerjee/iamsouravbanerjee/blob/master/assets/git.png"/>][git]
-[<img align="left" alt="VS Code" width="35px" src="https://github.com/iamsouravbanerjee/iamsouravbanerjee/blob/master/assets/vscode.png"/>][vscode]
+[<img align="left" alt="VS Code" width="35px" src="https://github.com/iamsouravbanerjee/iamsouravbanerjee/blob/master/assets/vscode_2.png"/>][vscode]
 
 <br />
 <br />
