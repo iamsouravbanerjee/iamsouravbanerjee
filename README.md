@@ -55,6 +55,7 @@
 [<img align="left" alt="CatBoost" width="35px" src="https://github.com/Souravban/Souravban/blob/master/assets/catboost.png"/>][catboost]
 [<img align="left" alt="Excel" width="35px" src="https://github.com/Souravban/Souravban/blob/master/assets/excel.png"/>][excel]
 [<img align="left" alt="Streamlit" width="35px" src="https://github.com/Souravban/Souravban/blob/master/assets/streamlit.png"/>][streamlit]
+[<img align="left" alt="Git" width="35px" src="[https://github.com/Souravban/Souravban/blob/master/assets/streamlit.png](https://github.com/iamsouravbanerjee/iamsouravbanerjee/blob/master/assets/git.png)"/>][git]
 
 <br />
 <br />
@@ -83,6 +84,7 @@
 [flask]: https://flask.palletsprojects.com/en/1.1.x/
 [mysql]: https://www.mysql.com/
 [gitlab]: http://gitlab.com/
+[git]: https://git-scm.com/
 [streamlit]: https://www.streamlit.io/
 [binder]: https://mybinder.org/
 [colab]: https://colab.research.google.com/
