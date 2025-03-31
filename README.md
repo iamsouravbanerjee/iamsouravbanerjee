@@ -57,6 +57,7 @@
 [<img align="left" alt="Streamlit" width="35px" src="https://github.com/Souravban/Souravban/blob/master/assets/streamlit.png"/>][streamlit]
 [<img align="left" alt="Git" width="35px" src="https://github.com/iamsouravbanerjee/iamsouravbanerjee/blob/master/assets/git.png"/>][git]
 [<img align="left" alt="VS Code" width="35px" src="https://github.com/iamsouravbanerjee/iamsouravbanerjee/blob/master/assets/vscode_2.png"/>][vscode]
+[<img align="left" alt="OpenAI" width="35px" src="https://github.com/iamsouravbanerjee/iamsouravbanerjee/blob/master/assets/openai.png"/>][openai]
 
 <br />
 <br />
@@ -97,3 +98,4 @@
 [excel]: https://www.microsoft.com/en-in/microsoft-365/excel
 [postgresql]: https://www.postgresql.org/
 [vscode]: https://code.visualstudio.com/
+[openai]: https://openai.com/
