@@ -5,7 +5,7 @@
 ## I'm a Data Scientist, a Photographer, a Numismatist, and a Lifelong Learner.
 - <b> 🔭 Currently, I'm deeply engaged in Machine Learning and Deep Learning projects 🚀. </b>
 - <b> 🌱 Every day brings a chance for me to acquire fresh knowledge and enhance my skill set 📊. </b>
-- <b> 🎯 My 2025 aspirations are geared towards addressing challenges within NLP and Computer Vision 📚. </b>
+- <b> 🎯 My 2026 aspirations are geared towards addressing challenges within NLP and Computer Vision 📚. </b>
 - <b> ⚡ I'm a Hodophile at heart, driven by a passion for discovering novel culinary delights 🍜. </b>
 
 ### Kaggle:
