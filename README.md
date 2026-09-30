@@ -62,7 +62,6 @@
 <br />
 <br />
 
-
 [website]: https://iamsouravbanerjee.github.io/
 [gmail]: https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=souravbanerjee216@gmail.com
 [linkedin]: https://www.linkedin.com/in/iamsouravbanerjee/
